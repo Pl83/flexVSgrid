@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+}
+
+.g{
+    width: calc((100%/7)*4);
+}
+
+.undeuxtrois {
+    display: flex;
+    flex-direction: row;
+}
+
+.sixsept {
+    display: flex;
+    flex-direction: row;
+}
+
+.huitneuf {
+    display: flex;
+    flex-direction: row;
+}
+
+.d {
+    display: flex;
+    flex-direction: row;
+    width: calc((100%/7)*3);
+}
+
+.onzedouze {
+    display: flex;
+    flex-direction: row;
+}
+.un{
+    background-color: brown;
+    height: 20vh;
+    width: 25%;
+}
+
+.deux{
+    background-color: blue;
+    height: 20vh;
+    width: 25%;
+}
+
+.trois{
+    background-color: purple;
+    height: 20vh;
+    width: 50%;
+}
+
+.six{
+    background-color: chartreuse;
+    height: 20vh;
+    width:75%;
+}
+
+.sept{
+    background-color: darkorange;
+    height: 20vh;
+    width: 25%;
+}
+
+.huit{
+    background-color: cornflowerblue;
+    height: 40vh;
+    width: 50%;
+}
+
+.neuf{
+    background-color: maroon;
+    height: 40vh;
+    width: 50%;
+}
+
+.dix{
+    background-color: darksalmon;
+    height: 20vh;
+    width: 100%;
+}
+
+.quattre{
+    background-color: crimson;
+    height: 100vh;
+    width: calc(100% /3);
+}
+
+.cinqonzedouze{
+    width: calc((100% /3)*2);
+}
+
+.cinq{
+    background-color: aqua;
+    height: 40vh;
+}
+
+.onze{
+    background-color: lawngreen;
+    height: 60vh;
+    width: 50%;
+}
+
+.douze{
+    background-color: gold;
+    height: 60vh;
+    width: 50%;
+}
